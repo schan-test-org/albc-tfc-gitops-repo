@@ -1,8 +1,8 @@
 ############################# main : var #######################################
 
 variable "env" { type = string }
-variable "eks_tfstat_path" { type = string }
-variable "aws_profile" { type = string }
+# variable "eks_tfstat_path" { type = string }
+# variable "aws_profile" { type = string }
 variable "aws_region" { type = string }
 variable "project" { type = string }
 variable "default_tags" { type = map(string) }
