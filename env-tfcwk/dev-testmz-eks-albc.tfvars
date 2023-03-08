@@ -17,7 +17,7 @@ default_tags = {
 # backend_s3_bucket_name = "mz-terra-tfs-i12i"
 tfc_org = "schan-test"
 tfc_wk = "1-dev-eks-tfc"
-eks_cluster_name       = "test-deveks"
+eks_cluster_name       = "deveks-test"
 
 vpc_id        = "vpc-0e8acf616f7d0dd34"
 # vpc_id        = ""
